@@ -6,6 +6,16 @@
 				"deluxe": "Short n' Sweet (Deluxe)",
 				"other": "Short n' Sweet"
 			}
+		},
+		"emails i can’t send": {
+			"disambiguation": {
+				"other": "emails i can't send"
+			}
+		},
+		"emails i can't send fwd:": {
+			"disambiguation": {
+				"other": "emails i can’t send fwd:"
+			}
 		}
 	},
 	"the weeknd": {
