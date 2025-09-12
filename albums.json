@@ -1,23 +1,23 @@
 {
 	"version": "2025.0912",
 	"sabrina carpenter": {
-		"Short n’ Sweet": {
+		"short n’ sweet": {
 			"deluxe": "Short n' Sweet (Deluxe)",
 			"other": "Short n' Sweet"
 		}
 	},
 	"the weeknd": {
-		"Hurry Up Tomorrow": {
+		"hurry up tomorrow": {
 			"guests_in_title": true
 		}
 	},
 	"kendrick lamar": {
-		"GNX": {
+		"gnx": {
 			"guests_in_title": true
 		}
 	},
 	"travis scott": {
-		"UTOPIA": {
+		"utopia": {
 			"guests_in_title": true
 		}
 	}
