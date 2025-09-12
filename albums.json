@@ -13,7 +13,8 @@
 	},
 	"kendrick lamar": {
 		"GNX": {
-			"guests_in_title": true
+			"guests_in_title": true,
+			"final_guest_separator": ", "
 		}
 	},
 	"travis scott": {
