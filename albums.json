@@ -2,8 +2,10 @@
 	"version": "2025.0912",
 	"sabrina carpenter": {
 		"short n’ sweet": {
-			"deluxe": "Short n' Sweet (Deluxe)",
-			"other": "Short n' Sweet"
+			"disambiguation": {
+				"deluxe": "Short n' Sweet (Deluxe)",
+				"other": "Short n' Sweet"
+			}
 		}
 	},
 	"the weeknd": {
