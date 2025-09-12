@@ -5,5 +5,20 @@
 			"deluxe": "Short n' Sweet (Deluxe)",
 			"other": "Short n' Sweet"
 		}
+	},
+	"the weeknd": {
+		"Hurry Up Tomorrow": {
+			"guests_in_title": true
+		}
+	},
+	"kendrick lamar": {
+		"GNX": {
+			"guests_in_title": true
+		}
+	},
+	"travis scott": {
+		"UTOPIA": {
+			"guests_in_title": true
+		}
 	}
 }

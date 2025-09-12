@@ -1,12 +1,10 @@
 {
-    "version": "2025.0912",
-    "the weeknd": {
-		"Wake Me Up": "Wake Me Up (feat. Justice)",
-        "São Paulo": "São Paulo (feat. Anitta)",
-        "Reflections Laughing": "Reflections Laughing (feat. Travis Scott, Florence + The Machine)",
-        "Enjoy The Show": "Enjoy The Show (feat. Future)",
-        "Timeless": "Timeless (feat Playboi Carti)",
-        "Big Sleep": "Big Sleep (feat. Giorgio Moroder)",
-        "The Abyss": "The Abyss (feat. Lana Del Rey)"
-	}
+  "version": "2025.0912",
+  "the weeknd": {
+    "Reflections Laughing": "Reflections Laughing (feat. Travis Scott, Florence + The Machine)"
+  },
+  "travis scott": {
+    "MODERN JAM": "MODERN JAM (feat. Teezo Touchdown)",
+    "MELTDOWN": "MELTDOWN (feat. Drake)"
+  }
 }
