@@ -1,5 +1,5 @@
 {
-	"version": "2025.0912",
+	"version": "2025.0930",
 	"sabrina carpenter": {
 		"short n’ sweet": {
 			"disambiguation": {
@@ -18,20 +18,22 @@
 			}
 		}
 	},
-	"the weeknd": {
-		"hurry up tomorrow": {
-			"guests_in_title": true
-		}
-	},
 	"kendrick lamar": {
 		"gnx": {
-			"guests_in_title": true,
 			"final_guest_separator": ", "
 		}
 	},
 	"travis scott": {
-		"utopia": {
-			"guests_in_title": true
+		"days before rodeo": {
+			"disambiguation": {
+				"digital deluxe": "DAYS BEFORE RODEO - DIGITAL DELUXE ALBUM",
+				"Digital Deluxe Vault 1": "DAYS BEFORE RODEO - DIGITAL DELUXE ALBUM",
+				"Digital Deluxe Vault 2": "DAYS BEFORE RODEO - DIGITAL DELUXE ALBUM VAULT 2",
+				"Digital Deluxe Vault 3": "DAYS BEFORE RODEO - DIGITAL DELUXE ALBUM VAULT 3",
+				"Digital Deluxe Vault 4": "DAYS BEFORE RODEO - DIGITAL DELUXE ALBUM VAULT 4",
+				"STANDARD EDITION + LIVE FROM ATLANTA": "DBR STANDARD EDITION + LIVE FROM ATLANTA",
+				"CHOPPED AND SCREWED EDITION": "DBR DELUXE EDITION + CHOPPED AND SCREWED EDITION"
+			}
 		}
 	}
 }
