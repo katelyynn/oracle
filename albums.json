@@ -1,5 +1,5 @@
 {
-	"version": "2025.0930",
+	"version": "2025.1002",
 	"sabrina carpenter": {
 		"short n’ sweet": {
 			"disambiguation": {
@@ -34,6 +34,11 @@
 				"STANDARD EDITION + LIVE FROM ATLANTA": "DBR STANDARD EDITION + LIVE FROM ATLANTA",
 				"CHOPPED AND SCREWED EDITION": "DBR DELUXE EDITION + CHOPPED AND SCREWED EDITION"
 			}
+		}
+	},
+	"bladee": {
+		"cold visions": {
+			"id": "a53c72a2-ae71-40a7-875f-a7634e0795a1"
 		}
 	}
 }
