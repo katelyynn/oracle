@@ -1,5 +1,5 @@
 {
-	"version": "2025.1002",
+	"version": "2025.1007",
 	"sabrina carpenter": {
 		"short n’ sweet": {
 			"disambiguation": {
@@ -39,6 +39,11 @@
 	"bladee": {
 		"cold visions": {
 			"id": "a53c72a2-ae71-40a7-875f-a7634e0795a1"
+		}
+	},
+	"the weeknd": {
+		"hurry up tomorrow": {
+			"id": "e52d9c5b-7ae0-4ac7-9bbf-94cdf6a1ade2"
 		}
 	}
 }
