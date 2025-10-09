@@ -1,5 +1,5 @@
 {
-	"version": "2025.1007",
+	"version": "2025.1010",
 	"sabrina carpenter": {
 		"short n’ sweet": {
 			"disambiguation": {
@@ -44,6 +44,11 @@
 	"the weeknd": {
 		"hurry up tomorrow": {
 			"id": "e52d9c5b-7ae0-4ac7-9bbf-94cdf6a1ade2"
+		}
+	},
+	"playboi carti": {
+		"music": {
+			"id": "63c43988-5c32-47d4-a36b-9691281e7bdc"
 		}
 	}
 }
