@@ -48,7 +48,12 @@
 	},
 	"playboi carti": {
 		"music": {
-			"id": "63c43988-5c32-47d4-a36b-9691281e7bdc"
+			"id": "63c43988-5c32-47d4-a36b-9691281e7bdc",
+			"disambiguation": {
+				"V1": "MUSIC - V1",
+				"V2": "MUSIC - V2",
+				"V3": "MUSIC - V3"
+			}
 		},
 		"music - sorry 4 da wait": {
 			"id": "c74c3500-af34-480d-92e1-16c105c547f5"
