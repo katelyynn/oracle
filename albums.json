@@ -1,5 +1,5 @@
 {
-	"version": "2025.1017",
+	"version": "2025.1022",
 	"sabrina carpenter": {
 		"short n’ sweet": {
 			"disambiguation": {
@@ -62,6 +62,11 @@
 		},
 		"music - sorry 4 da wait": {
 			"id": "c74c3500-af34-480d-92e1-16c105c547f5"
+		}
+	},
+	"denzel curry": {
+		"king of the mischievous south": {
+			"id": "fa51437c-b552-4289-8e87-f7e998ff35d0"
 		}
 	}
 }
