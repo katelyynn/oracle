@@ -1,5 +1,5 @@
 {
-	"version": "2025.1022",
+	"version": "2025.1029",
 	"sabrina carpenter": {
 		"short n’ sweet": {
 			"disambiguation": {
@@ -67,6 +67,11 @@
 	"denzel curry": {
 		"king of the mischievous south": {
 			"id": "fa51437c-b552-4289-8e87-f7e998ff35d0"
+		}
+	},
+	"charli xcx": {
+		"brat and it’s completely different but also still brat": {
+			"guest_brackets": "none"
 		}
 	}
 }
