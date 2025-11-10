@@ -1,5 +1,5 @@
 {
-	"version": "2025.1029",
+	"version": "2025.1110",
 	"sabrina carpenter": {
 		"short n’ sweet": {
 			"disambiguation": {
@@ -72,6 +72,11 @@
 	"charli xcx": {
 		"brat and it’s completely different but also still brat": {
 			"guest_brackets": "none"
+		}
+	},
+	"danny brown": {
+		"stardust": {
+			"guests_in_title": false
 		}
 	}
 }
