@@ -1,0 +1,20 @@
+name: Incorrect album listing
+description: Mark an album which displays the wrong tracklist or release date
+labels: ['type:album_incorrect_listing']
+body:
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: Can you provide the link to the page on Last.fm?
+      placeholder: "e.g. https://www.last.fm/music/The+Weeknd/_/Gasoline"
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: What did you expect?
+      description: Which version of the album did you expect to be linked to
+      placeholder: "The album should link to this most popular copy (link), its missing a few tracks right now"
+    validations:
+      required: true
