@@ -1,5 +1,5 @@
 {
-	"version": "2026.0201",
+	"version": "2026.0403",
 	"sabrina carpenter": {
 		"short n’ sweet": {
 			"disambiguation": {
@@ -84,6 +84,11 @@
 			"disambiguation": {
 				"5 Year anniversary edition, explicit": "Legends Never Die (5 Year Anniversary Edition)"
 			}
+		}
+	},
+	"kanye west": {
+		"bully": {
+			"id": "5fe938fb-e0a9-48ad-96f7-e950d8635aeb"
 		}
 	}
 }
