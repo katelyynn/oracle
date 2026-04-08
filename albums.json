@@ -1,5 +1,5 @@
 {
-	"version": "2026.0403",
+	"version": "2026.0408",
 	"sabrina carpenter": {
 		"short n’ sweet": {
 			"disambiguation": {
@@ -89,6 +89,11 @@
 	"kanye west": {
 		"bully": {
 			"id": "5fe938fb-e0a9-48ad-96f7-e950d8635aeb"
+		}
+	},
+	"slayyyter": {
+		"wor$t girl in america": {
+			"id": "79a2f948-e3a2-4eee-ae7b-2f0e117d4c1d"
 		}
 	}
 }
