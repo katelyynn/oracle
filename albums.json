@@ -70,8 +70,15 @@
 		}
 	},
 	"charli xcx": {
+		"brat": {
+			"id": "ab55ac76-eee5-4f89-ac14-7bb9aa837bc8"
+		},
 		"brat and it’s completely different but also still brat": {
-			"guest_brackets": "none"
+			"guest_brackets": "none",
+			"id": "1eb5ec6f-8f49-466b-a855-4906be6e565a"
+		},
+		"brat and it’s the same but there’s three more songs so it’s not": {
+			"id": "336e198f-1835-483d-811f-da24539c2e7f"
 		}
 	},
 	"danny brown": {
