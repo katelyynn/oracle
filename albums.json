@@ -1,5 +1,5 @@
 {
-	"version": "2026.0408",
+	"version": "2026.0409",
 	"sabrina carpenter": {
 		"short n’ sweet": {
 			"disambiguation": {
@@ -104,6 +104,35 @@
 	"slayyyter": {
 		"wor$t girl in america": {
 			"id": "79a2f948-e3a2-4eee-ae7b-2f0e117d4c1d"
+		}
+	},
+	"nirvana": {
+		"nevermind": {
+			"id": "a146429a-cedc-3ab0-9e41-1aaf5f6cdc2d"
+		},
+		"nevermind (remastered)": {
+			"id": "4af1d879-1c33-4977-8e6a-8173b2d6286d"
+		},
+		"nevermind (30th anniversary super deluxe)": {
+			"id": "5565020e-80a9-4a45-8869-e4b7338422d4"
+		},
+		"in utero": {
+			"id": "9402f68c-bc93-4278-8515-01d06fda1b39"
+		},
+		"in utero (deluxe edition)": {
+			"id": "c19c45ab-a8a2-40ea-8b33-b4fc6797a0c5"
+		},
+		"in utero (super deluxe edition)": {
+			"id": "ec236b7c-b545-47eb-9de2-d6877b2e9a89"
+		},
+		"in utero (30th anniversary super deluxe)": {
+			"id": "6fa76ee8-2fac-4f6f-b652-57eccb1d66d8"
+		},
+		"bleach": {
+			"id": "a714af56-fb41-481c-9fdf-4f1b86effffa"
+		},
+		"bleach (deluxe edition)": {
+			"id": "7c2b193e-532d-4beb-90f0-6f8dd3034461"
 		}
 	}
 }
