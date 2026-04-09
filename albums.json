@@ -151,6 +151,12 @@
 		},
 		"bleach (deluxe edition)": {
 			"id": "7c2b193e-532d-4beb-90f0-6f8dd3034461"
+		},
+		"incesticide": {
+			"id": "726ca690-fe70-4d3f-86b5-f8347f1a1af0"
+		},
+		"mtv unplugged in new york": {
+			"id": "f4469159-1395-40b5-81e6-a507e2ad34ef"
 		}
 	},
 	"glaive": {
@@ -163,6 +169,16 @@
 			"disambiguation": {
 				"other": "WE DON'T TRUST YOU"
 			}
+		}
+	},
+	"a$ap rocky": {
+		"don't be dumb": {
+			"id": "2402909d-17e5-4fcb-835f-9405ee03f990"
+		}
+	},
+	"have a nice life": {
+		"deathconsciousness": {
+			"id": "a5e7e0e1-d40c-45de-8837-47d69219f0ee"
 		}
 	}
 }
