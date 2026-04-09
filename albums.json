@@ -7,6 +7,16 @@
 				"other": "Short n' Sweet"
 			}
 		},
+		"short n’ sweet(er)": {
+			"disambiguation": {
+				"other": "Short n' Sweet(er)"
+			}
+		},
+		"short n’ sweet(est)": {
+			"disambiguation": {
+				"other": "Short n' Sweet(est)"
+			}
+		},
 		"emails i can’t send": {
 			"disambiguation": {
 				"other": "emails i can't send"
@@ -138,6 +148,13 @@
 	"glaive": {
 		"y’all": {
 			"id": "7f052c28-72e7-4030-bfe4-7cab30faa35e"
+		}
+	},
+	"future": {
+		"we don’t trust you": {
+			"disambiguation": {
+				"other": "WE DON'T TRUST YOU"
+			}
 		}
 	}
 }
