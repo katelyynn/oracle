@@ -1,5 +1,5 @@
 {
-	"version": "2026.0409",
+	"version": "2026.0410",
 	"sabrina carpenter": {
 		"short n’ sweet": {
 			"disambiguation": {
@@ -179,6 +179,11 @@
 	"have a nice life": {
 		"deathconsciousness": {
 			"id": "a5e7e0e1-d40c-45de-8837-47d69219f0ee"
+		}
+	},
+	"tyler, the creator": {
+		"call me if you get lost: the estate sale": {
+			"id": "44237978-668a-4658-ad06-f2efc763d914"
 		}
 	}
 }
