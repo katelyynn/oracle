@@ -1,5 +1,5 @@
 {
-	"version": "2026.0411",
+	"version": "2026.0413",
 	"sabrina carpenter": {
 		"short n’ sweet": {
 			"disambiguation": {
@@ -187,6 +187,11 @@
 	"tyler, the creator": {
 		"call me if you get lost: the estate sale": {
 			"id": "44237978-668a-4658-ad06-f2efc763d914"
+		}
+	},
+	"my bloody valentine": {
+		"loveless": {
+			"id": "cd32c6cf-f979-39e7-a4ec-157d3a560d06"
 		}
 	}
 }
