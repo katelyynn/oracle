@@ -1,5 +1,5 @@
 {
-	"version": "2026.0418",
+	"version": "2026.0927",
 	"sabrina carpenter": {
 		"short n’ sweet": {
 			"disambiguation": {
@@ -29,6 +29,9 @@
 		}
 	},
 	"kendrick lamar": {
+		"mr. morale & the big steppers": {
+			"id": "88af3793-bfaa-40a7-9766-9d4c167b66c2"
+		},
 		"gnx": {
 			"final_guest_separator": ", "
 		}
